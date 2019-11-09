@@ -10,10 +10,15 @@ Scraping mtg card data from hareruyamtg.com
 
 # How to use?
 Usage:
+
 1.download exe or source code.
+
 2.run exe or build source code.
+
 3.auto download to csv(utf-8).
+
 Enjoy!
 
-# Liscense
-MIT Liscense
+
+# Lisence
+MIT Lisence
