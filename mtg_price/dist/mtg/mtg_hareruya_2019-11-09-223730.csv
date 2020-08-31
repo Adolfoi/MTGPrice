@@ -1,0 +1,321 @@
+card_name,card_condition,card_price,card_stock
+"
+    【EN】《Badlands》[3ED] 土地R",NM,33000,1
+"
+    【EN】《Badlands》[3ED] 土地R",SP,28050,6
+"
+    【EN】《Badlands》[3ED] 土地R",MP,26400,10
+"
+    【EN】《Badlands》[3ED] 土地R",HP,23100,8
+"
+    【FR】《Badlands》[3ED] 土地R",NM,28000,0
+"
+    【FR】《Badlands》[3ED] 土地R",SP,23800,0
+"
+    【FR】《Badlands》[3ED] 土地R",MP,22400,0
+"
+    【FR】《Badlands》[3ED] 土地R",HP,19600,0
+"
+    【DE】《Badlands》[3ED] 土地R",NM,28000,0
+"
+    【DE】《Badlands》[3ED] 土地R",SP,23800,0
+"
+    【DE】《Badlands》[3ED] 土地R",MP,22400,0
+"
+    【DE】《Badlands》[3ED] 土地R",HP,19600,0
+"
+    【IT】《Badlands》[3ED] 土地R",NM,28000,0
+"
+    【IT】《Badlands》[3ED] 土地R",SP,23800,0
+"
+    【IT】《Badlands》[3ED] 土地R",MP,22400,1
+"
+    【IT】《Badlands》[3ED] 土地R",HP,19600,0
+"
+    【EN】《Bayou》[3ED] 土地R",NM,35000,0
+"
+    【EN】《Bayou》[3ED] 土地R",SP,29750,13
+"
+    【EN】《Bayou》[3ED] 土地R",MP,28000,7
+"
+    【EN】《Bayou》[3ED] 土地R",HP,24500,2
+"
+    【FR】《Bayou》[3ED] 土地R",NM,30000,0
+"
+    【FR】《Bayou》[3ED] 土地R",SP,25500,0
+"
+    【FR】《Bayou》[3ED] 土地R",MP,24000,0
+"
+    【FR】《Bayou》[3ED] 土地R",HP,21000,0
+"
+    【DE】《Bayou》[3ED] 土地R",NM,30000,0
+"
+    【DE】《Bayou》[3ED] 土地R",SP,25500,0
+"
+    【DE】《Bayou》[3ED] 土地R",MP,24000,0
+"
+    【DE】《Bayou》[3ED] 土地R",HP,21000,0
+"
+    【IT】《Bayou》[3ED] 土地R",NM,30000,0
+"
+    【IT】《Bayou》[3ED] 土地R",SP,25500,0
+"
+    【IT】《Bayou》[3ED] 土地R",MP,24000,0
+"
+    【IT】《Bayou》[3ED] 土地R",HP,21000,0
+"
+    【EN】《Plateau》[3ED] 土地R",NM,14000,1
+"
+    【EN】《Plateau》[3ED] 土地R",SP,11900,7
+"
+    【EN】《Plateau》[3ED] 土地R",MP,11200,16
+"
+    【EN】《Plateau》[3ED] 土地R",HP,9800,6
+"
+    【FR】《Plateau》[3ED] 土地R",NM,13000,0
+"
+    【FR】《Plateau》[3ED] 土地R",SP,11050,0
+"
+    【FR】《Plateau》[3ED] 土地R",MP,10400,0
+"
+    【FR】《Plateau》[3ED] 土地R",HP,9100,0
+"
+    【DE】《Plateau》[3ED] 土地R",NM,13000,1
+"
+    【DE】《Plateau》[3ED] 土地R",SP,11050,0
+"
+    【DE】《Plateau》[3ED] 土地R",MP,10400,0
+"
+    【DE】《Plateau》[3ED] 土地R",HP,9100,0
+"
+    【IT】《Plateau》[3ED] 土地R",NM,13000,0
+"
+    【IT】《Plateau》[3ED] 土地R",SP,11050,0
+"
+    【IT】《Plateau》[3ED] 土地R",MP,10400,0
+"
+    【IT】《Plateau》[3ED] 土地R",HP,9100,0
+"
+    【EN】《Savannah》[3ED] 土地R",NM,20000,2
+"
+    【EN】《Savannah》[3ED] 土地R",SP,17000,4
+"
+    【EN】《Savannah》[3ED] 土地R",MP,16000,14
+"
+    【EN】《Savannah》[3ED] 土地R",HP,14000,3
+"
+    【FR】《Savannah》[3ED] 土地R",NM,18000,0
+"
+    【FR】《Savannah》[3ED] 土地R",SP,15300,0
+"
+    【FR】《Savannah》[3ED] 土地R",MP,14400,0
+"
+    【FR】《Savannah》[3ED] 土地R",HP,12600,0
+"
+    【DE】《Savannah》[3ED] 土地R",NM,18000,0
+"
+    【DE】《Savannah》[3ED] 土地R",SP,15300,0
+"
+    【DE】《Savannah》[3ED] 土地R",MP,14400,0
+"
+    【DE】《Savannah》[3ED] 土地R",HP,12600,0
+"
+    【IT】《Savannah》[3ED] 土地R",NM,18000,0
+"
+    【IT】《Savannah》[3ED] 土地R",SP,15300,0
+"
+    【IT】《Savannah》[3ED] 土地R",MP,14400,1
+"
+    【IT】《Savannah》[3ED] 土地R",HP,12600,0
+"
+    【EN】《Scrubland》[3ED]土地R",NM,18000,0
+"
+    【EN】《Scrubland》[3ED]土地R",SP,15300,11
+"
+    【EN】《Scrubland》[3ED]土地R",MP,14400,21
+"
+    【EN】《Scrubland》[3ED]土地R",HP,12600,1
+"
+    【FR】《Scrubland》[3ED]土地R",NM,16000,0
+"
+    【FR】《Scrubland》[3ED]土地R",SP,13600,0
+"
+    【FR】《Scrubland》[3ED]土地R",MP,12800,0
+"
+    【FR】《Scrubland》[3ED]土地R",HP,11200,0
+"
+    【DE】《Scrubland》[3ED]土地R",NM,16000,0
+"
+    【DE】《Scrubland》[3ED]土地R",SP,13600,0
+"
+    【DE】《Scrubland》[3ED]土地R",MP,12800,0
+"
+    【DE】《Scrubland》[3ED]土地R",HP,11200,0
+"
+    【IT】《Scrubland》[3ED]土地R",NM,16000,3
+"
+    【IT】《Scrubland》[3ED]土地R",SP,13600,0
+"
+    【IT】《Scrubland》[3ED]土地R",MP,12800,0
+"
+    【IT】《Scrubland》[3ED]土地R",HP,11200,0
+"
+    【EN】《Taiga》[3ED]土地R",NM,18000,0
+"
+    【EN】《Taiga》[3ED]土地R",SP,15300,0
+"
+    【EN】《Taiga》[3ED]土地R",MP,14400,4
+"
+    【EN】《Taiga》[3ED]土地R",HP,12600,0
+"
+    【FR】《Taiga》[3ED]土地R",NM,16000,0
+"
+    【FR】《Taiga》[3ED]土地R",SP,13600,0
+"
+    【FR】《Taiga》[3ED]土地R",MP,12800,0
+"
+    【FR】《Taiga》[3ED]土地R",HP,11200,0
+"
+    【DE】《Taiga》[3ED]土地R",NM,16000,0
+"
+    【DE】《Taiga》[3ED]土地R",SP,13600,0
+"
+    【DE】《Taiga》[3ED]土地R",MP,12800,0
+"
+    【DE】《Taiga》[3ED]土地R",HP,11200,0
+"
+    【IT】《Taiga》[3ED]土地R",NM,16000,0
+"
+    【IT】《Taiga》[3ED]土地R",SP,13600,1
+"
+    【IT】《Taiga》[3ED]土地R",MP,12800,0
+"
+    【IT】《Taiga》[3ED]土地R",HP,11200,0
+"
+    【EN】《Tropical Island》[3ED] 土地R",NM,40000,0
+"
+    【EN】《Tropical Island》[3ED] 土地R",SP,34000,7
+"
+    【EN】《Tropical Island》[3ED] 土地R",MP,32000,12
+"
+    【EN】《Tropical Island》[3ED] 土地R",HP,28000,0
+"
+    【FR】《Tropical Island》[3ED] 土地R",NM,36000,0
+"
+    【FR】《Tropical Island》[3ED] 土地R",SP,30600,0
+"
+    【FR】《Tropical Island》[3ED] 土地R",MP,28800,0
+"
+    【FR】《Tropical Island》[3ED] 土地R",HP,25200,0
+"
+    【DE】《Tropical Island》[3ED] 土地R",NM,36000,0
+"
+    【DE】《Tropical Island》[3ED] 土地R",SP,30600,0
+"
+    【DE】《Tropical Island》[3ED] 土地R",MP,28800,0
+"
+    【DE】《Tropical Island》[3ED] 土地R",HP,25200,0
+"
+    【IT】《Tropical Island》[3ED] 土地R",NM,36000,0
+"
+    【IT】《Tropical Island》[3ED] 土地R",SP,30600,0
+"
+    【IT】《Tropical Island》[3ED] 土地R",MP,28800,0
+"
+    【IT】《Tropical Island》[3ED] 土地R",HP,25200,0
+"
+    【EN】《Tundra》[3ED]土地R",NM,40000,0
+"
+    【EN】《Tundra》[3ED]土地R",SP,34000,15
+"
+    【EN】《Tundra》[3ED]土地R",MP,32000,21
+"
+    【EN】《Tundra》[3ED]土地R",HP,28000,7
+"
+    【FR】《Tundra》[3ED]土地R",NM,35000,0
+"
+    【FR】《Tundra》[3ED]土地R",SP,29750,0
+"
+    【FR】《Tundra》[3ED]土地R",MP,28000,0
+"
+    【FR】《Tundra》[3ED]土地R",HP,24500,0
+"
+    【DE】《Tundra》[3ED]土地R",NM,35000,0
+"
+    【DE】《Tundra》[3ED]土地R",SP,29750,0
+"
+    【DE】《Tundra》[3ED]土地R",MP,28000,0
+"
+    【DE】《Tundra》[3ED]土地R",HP,24500,0
+"
+    【IT】《Tundra》[3ED]土地R",NM,35000,0
+"
+    【IT】《Tundra》[3ED]土地R",SP,29750,1
+"
+    【IT】《Tundra》[3ED]土地R",MP,28000,0
+"
+    【IT】《Tundra》[3ED]土地R",HP,24500,0
+"
+    【EN】《Underground Sea》[3ED] 土地R",NM,70000,0
+"
+    【EN】《Underground Sea》[3ED] 土地R",SP,59500,25
+"
+    【EN】《Underground Sea》[3ED] 土地R",MP,56000,24
+"
+    【EN】《Underground Sea》[3ED] 土地R",HP,49000,3
+"
+    【FR】《Underground Sea》[3ED] 土地R",NM,65000,0
+"
+    【FR】《Underground Sea》[3ED] 土地R",SP,55250,0
+"
+    【FR】《Underground Sea》[3ED] 土地R",MP,52000,0
+"
+    【FR】《Underground Sea》[3ED] 土地R",HP,45500,0
+"
+    【DE】《Underground Sea》[3ED] 土地R",NM,65000,0
+"
+    【DE】《Underground Sea》[3ED] 土地R",SP,55250,0
+"
+    【DE】《Underground Sea》[3ED] 土地R",MP,52000,0
+"
+    【DE】《Underground Sea》[3ED] 土地R",HP,45500,0
+"
+    【IT】《Underground Sea》[3ED] 土地R",NM,65000,1
+"
+    【IT】《Underground Sea》[3ED] 土地R",SP,55250,0
+"
+    【IT】《Underground Sea》[3ED] 土地R",MP,52000,0
+"
+    【IT】《Underground Sea》[3ED] 土地R",HP,45500,1
+"
+    【EN】《Volcanic Island》[3ED] 土地R",NM,68000,0
+"
+    【EN】《Volcanic Island》[3ED] 土地R",SP,57800,15
+"
+    【EN】《Volcanic Island》[3ED] 土地R",MP,54400,18
+"
+    【EN】《Volcanic Island》[3ED] 土地R",HP,47600,0
+"
+    【FR】《Volcanic Island》[3ED] 土地R",NM,60000,0
+"
+    【FR】《Volcanic Island》[3ED] 土地R",SP,51000,0
+"
+    【FR】《Volcanic Island》[3ED] 土地R",MP,48000,0
+"
+    【FR】《Volcanic Island》[3ED] 土地R",HP,42000,0
+"
+    【DE】《Volcanic Island》[3ED] 土地R",NM,60000,0
+"
+    【DE】《Volcanic Island》[3ED] 土地R",SP,51000,0
+"
+    【DE】《Volcanic Island》[3ED] 土地R",MP,48000,0
+"
+    【DE】《Volcanic Island》[3ED] 土地R",HP,42000,0
+"
+    【IT】《Volcanic Island》[3ED] 土地R",NM,60000,0
+"
+    【IT】《Volcanic Island》[3ED] 土地R",SP,51000,0
+"
+    【IT】《Volcanic Island》[3ED] 土地R",MP,48000,0
+"
+    【IT】《Volcanic Island》[3ED] 土地R",HP,42000,0
